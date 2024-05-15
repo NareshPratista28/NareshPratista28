@@ -1,7 +1,9 @@
 # Hi there! I'm Naresh Pratista 👋
 
 ## About Me
-🚀 Currently in my third year as an informatics student at Politeknik Negeri Malang, I'm deeply engaged with technology, coding, and problem-solving. I also have a strong interest in visual design and video editing, blending technical skills with creativity to explore innovative solutions.
+🚀 I am a Muslim and an informatics student at Politeknik Negeri Malang, I'm deeply engaged with Software Development specifically in Frontend Web Development. I also have a strong interest in visual design and video editing.
+
+Current Focus: React.JS, Tailwind CSS, UI/UX Design.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/🌐%20LinkedIn-NareshPratista-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nareshpratista/)
