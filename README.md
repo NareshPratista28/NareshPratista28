@@ -1,9 +1,9 @@
 # Hi there! I'm Naresh Pratista 👋
 
 ## About Me
-🚀 I am a Muslim and an informatics student at Politeknik Negeri Malang, I'm deeply engaged with Software Development specifically in Frontend Web Development. I also have a strong interest in visual design and video editing.
+🚀 I am a Muslim and an informatics student at Politeknik Negeri Malang, I'm deeply engaged with Software Development specifically in Frontend Web Development and Flutter Mobile Development. I also have a strong interest in visual design and video editing.
 
-Current Focus: React.JS, Tailwind CSS, UI/UX Design.
+Current Focus: Flutter.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/🌐%20LinkedIn-NareshPratista-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nareshpratista/)
